@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.64969d8c.js",
+    "static/media/struvive logo.png": "/static/media/struvive logo.28b3e09afa7f88430474.png",
+    "index.html": "/index.html",
+    "main.64969d8c.js.map": "/static/js/main.64969d8c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.64969d8c.js"
+  ]
+}
